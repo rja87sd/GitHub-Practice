@@ -9,3 +9,5 @@ Utilize this repo for your homework to practice forking and cloning down a repo 
 2. How do local and remote repositories differ, and why is synchronization between them essential when working with Git? Provide a clear understanding of these two aspects of Git.
 
 **A local repository is a repository that is located on the machine of the person working on it, whereas a remote repository is located on a server that can be accessed by multiple users. Synchronization is essential because it allows developers to work simultaneously on the same repository and changes can be synched to the main branch so that the project is updated as they go, without having to worry about errors caused by mismatching versions of the project.**
+
+[Link to Git Cheatsheet](https://dev.to/vishnuchilamakuru/git-cheatsheet-1oaj)
